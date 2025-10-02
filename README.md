@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nahnn
-- 👀 I’m interested in learn how to program at the gamemaker
+- 👀 I’m interested in learn how to program games
 - 🌱 I’m currently learning programing games, math, how to make 3d models, these kind of things
 - 📫 How to reach me @naaaahhn
 
